@@ -1,0 +1,6 @@
+person
+train
+motorcycle
+animal
+vehicle
+empty
